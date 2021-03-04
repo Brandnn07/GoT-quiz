@@ -28,9 +28,13 @@ It has a title page
 
 
 Responsive questions with a timer 
+
+
 ![alt text](assets/Screenshot%202021-03-03%20203205.png)
 
 
 And a place to store your scores
+
+
 ![alt text](assets/Screenshot%202021-03-03%20203218.png)
 
