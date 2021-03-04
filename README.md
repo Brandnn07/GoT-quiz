@@ -25,8 +25,12 @@ ________________________________________________________________________________
 I have created a quiz for all of you game of thrones fans that you can play [here!](https://brandnn07.github.io/GoT-quiz/)
 It has a title page 
 ![alt text](assets/Screenshot%202021-03-03%20203137.png)
+
+
 Responsive questions with a timer 
 ![alt text](assets/Screenshot%202021-03-03%20203205.png)
+
+
 And a place to store your scores
 ![alt text](assets/Screenshot%202021-03-03%20203218.png)
 
