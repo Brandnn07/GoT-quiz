@@ -1,26 +1,21 @@
 var questionArray = [
-    {
-        question: "What was the name of Daenerys Targaryen's largest dragon?",
+    {   question: "What was the name of Daenerys Targaryen's largest dragon?",
         choices: ["Drogon", "Viseryion", "Rhaegal", "Aerys"],
         answer: "Drogon"
     },
-    {
-        question: "Which of these were the last to join the seven kingdoms",
+    {   question: "Which of these were the last to join the seven kingdoms",
         choices: ["Dorne", "Lannisport", "The North", "The Eyrie"],
         answer:"Dorne"
     },
-    {
-        question: "What was Daenerys's husband's name?",
+    {   question: "What was Daenerys's husband's name?",
         choices: ["Khal Drogo", "Jon Snow", "Tormund", "Jaime Lannister"],
         answer:"Khal Drogo"
     },
-    {
-        question: "Who killed Tywin Lannister?",
+    {   question: "Who killed Tywin Lannister?",
         choices: ["Tyrion Lannister", "Elia Martell", "Jon Snow", "Olenna Tyrell"],
         answer:"Tyrion Lannister"
     },
-    {
-        question: "What was the name of the 'greatest city that ever was or ever will be'?",
+    {   question: "What was the name of the 'greatest city that ever was or ever will be'?",
         choices: ["Qarth", "Essos", "Braavis", "Volantis"],
         answer:"Qarth"
     },
